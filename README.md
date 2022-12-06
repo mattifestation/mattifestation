@@ -4,7 +4,7 @@ Hey, I'm Matt Graeber. I'm a defender, security researcher, reverse engineer, an
 
 | Date | Conference | Talk Title |
 |--------------|-----------|------------|
-| 11-Aug-22 | Black Hat USA 2022 | [Living Off the Walled Garden: Abusing the Features of the Early Launch Antimalware Ecosystem](https://www.blackhat.com/us-22/briefings/schedule/index.html#living-off-the-walled-garden-abusing-the-features-of-the-early-launch-antimalware-ecosystem-26334) |
+| 11-Aug-22 | Black Hat USA 2022 | [Living Off the Walled Garden: Abusing the Features of the Early Launch Antimalware Ecosystem](https://www.youtube.com/watch?v=Upo5I_mK1V4) |
 | 2-Oct-21 | BSides Augusta 2021 | [Confidently Measuring Attack Technique Coverage by Asking Better Questions](https://www.youtube.com/watch?v=x03ijHF0UtQ) |
 | 3-Dec-20 | CONverge Detroit | [Keynote: Improving the Landscape and Messaging of Offensive Tooling and Techniques](https://www.youtube.com/watch?v=u00JCQxUAY0) |
 | 6-Sep-19 | DerbyCon IX | [How do I detect technique X in Windows? Applied Methodology to Definitively Answer this Question](https://www.youtube.com/watch?v=GVRIUsgrwSQ) |

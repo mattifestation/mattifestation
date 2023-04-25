@@ -93,6 +93,7 @@ Hey, I'm Matt Graeber. I'm a defender, security researcher, reverse engineer, an
 
 | CVE | Description |
 |-----|-------------|
+| CVE-2023-28228 | [Windows Spoofing Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28228) |
 | CVE-2022-35743 | [Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code Execution Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-35743) |
 | CVE-2020-1599 | [Windows Spoofing Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-1599) |
 | CVE-2019-0733 | [Windows Defender Application Control Security Feature Bypass Vulnerability](https://msrc.microsoft.com/update-guide/en-us/vulnerability/CVE-2019-0733) |

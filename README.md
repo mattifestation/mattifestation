@@ -34,6 +34,7 @@ Hey, I'm Matt Graeber. I'm a defender, security researcher, reverse engineer, an
 
 ### Topic: Detection
 
+* [When MFA isn’t an option: The legacy of ROPC](https://redcanary.com/blog/ropc-legacy-authentication/)
 * [Better know a data source: Antimalware Scan Interface](https://redcanary.com/blog/amsi/)
 * [Better know a data source: Process command line](https://redcanary.com/blog/process-command-line/)
 * [Diary of a Detection Engineer: Babysitting child processes](https://redcanary.com/blog/child-processes/)

@@ -1,4 +1,4 @@
-Hey, I'm Matt Graeber. I'm a defender, security researcher, reverse engineer, and [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5000924).
+Hey, I'm Matt Graeber. I'm a defender, security researcher, reverse engineer.
 
 ## Conference Presentations
 

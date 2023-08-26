@@ -1,5 +1,3 @@
-Hey, I'm Matt Graeber. I'm a defender, security researcher, reverse engineer.
-
 ## Conference Presentations
 
 | Date | Conference | Talk Title |

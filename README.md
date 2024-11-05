@@ -32,6 +32,7 @@
 
 ### Topic: Detection
 
+* [Artificial authentication: Understanding and observing Azure OpenAI abuse](https://redcanary.com/blog/threat-detection/azure-openai-abuse/)
 * [When MFA isn’t an option: The legacy of ROPC](https://redcanary.com/blog/ropc-legacy-authentication/)
 * [Better know a data source: Antimalware Scan Interface](https://redcanary.com/blog/amsi/)
 * [Better know a data source: Process command line](https://redcanary.com/blog/process-command-line/)

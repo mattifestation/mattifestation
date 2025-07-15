@@ -2,6 +2,7 @@
 
 | Date | Conference | Talk Title |
 |--------------|-----------|------------|
+| 30-Jun-25 | fwd:cloudsec North America 2025 | [Happy Little Clouds: Painting Pictures with Microsoft Cloud and Identity Data](https://www.youtube.com/watch?v=nwYzVTL8Y4Y) |
 | 11-Aug-22 | Black Hat USA 2022 | [Living Off the Walled Garden: Abusing the Features of the Early Launch Antimalware Ecosystem](https://www.youtube.com/watch?v=Upo5I_mK1V4) |
 | 2-Oct-21 | BSides Augusta 2021 | [Confidently Measuring Attack Technique Coverage by Asking Better Questions](https://www.youtube.com/watch?v=x03ijHF0UtQ) |
 | 3-Dec-20 | CONverge Detroit | [Keynote: Improving the Landscape and Messaging of Offensive Tooling and Techniques](https://www.youtube.com/watch?v=u00JCQxUAY0) |
